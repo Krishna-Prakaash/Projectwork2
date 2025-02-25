@@ -43,9 +43,13 @@ The AI-based interactive virtual assistant enhances public access to legal infor
 
 ## Articles published / References
 [1] S. Yang, Y. Wang, and H. Zhao, "Intelligent Legal Assistant: AI-Powered Chatbot for Legal Information Retrieval," in IEEE Access, vol. 11, pp. 65230-65245, 2023, doi: 10.1109/ACCESS.2023.3298765.
+
 [2] A. Gupta, R. Sharma, and P. Verma, "AI and NLP-Based Chatbots in Legal Tech: Enhancing Access to Justice," in IEEE Transactions on Artificial Intelligence, vol. 4, no. 2, pp. 212-225, March 2023, doi: 10.1109/TAI.2023.3154789.
+
 [3] M. Brown, K. Patel, and J. Wilson, "Conversational AI in the Judiciary: A Review of Chatbot Applications in Legal Services," in IEEE Transactions on Emerging Topics in Computing, vol. 10, no. 3, pp. 451-464, Sept. 2022, doi: 10.1109/TETC.2022.3157890. 
+
 [4] L. Wang, X. Zhang, and S. Liu, "Deep Learning for Legal Text Analysis and Case Prediction in AI-Powered Chatbots," in IEEE Access, vol. 10, pp. 113400-113415, 2022, doi: 10.1109/ACCESS.2022.3210104.
+
 [5] R. Kumar, T. Sinha, and M. Desai, "AI-Based Legal Chatbots: Challenges and Future Prospects in Digital Justice," in IEEE Open Journal of Engineering in Medicine and Biology, vol. 6, pp. 217-231, 2024, doi: 10.1109/OJEMB.2024.3410897.
 
 
